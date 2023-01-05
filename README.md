@@ -1,7 +1,7 @@
-👋 Hi, I’m @maretaayu
+👋 Hi, I’m @shasa8__
 
 
-👀 I design & code web
+👀 I code web
 
 
 🌱 '99
