@@ -12,12 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shasa8_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shasa8_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rangga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rangga" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rangga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rangga" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rangga-putra-649895191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rangga-putra-649895191" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19412217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19412217" height="30" width="40" /></a>
 <a href="https://fb.com/ranggaramdhani8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranggaramdhani8" height="30" width="40" /></a>
 <a href="https://instagram.com/shasa8__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shasa8__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shasa" height="30" width="40" /></a>
-<a href="https://discord.gg/7127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7127" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
