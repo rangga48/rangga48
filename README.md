@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **ranggaputra681@gmail.com**
 
-- ⚡ Fun fact **I am a gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
