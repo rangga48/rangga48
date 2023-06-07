@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rangga48](https://github.com/rangga48)
 
-- 📫 How to reach me **ranggaputra681@gmail.com**
+- 📫 How to reach me **ranggaputra681@gmail.com** 
 
 
 <h3 align="left">Connect with me:</h3>
