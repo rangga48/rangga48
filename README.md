@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rangga Putra Ramdhani</h1>
 <h3 align="center">A passionate web developer from Indonesian</h3>
 
-- 🌱 I’m currently learning **Frameworks Laravel** and **MERN Developer** 
+- 🌱 I’m currently learning **Frameworks Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rangga48](https://github.com/rangga48)
 
