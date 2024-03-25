@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning **TypeScript** and **Angular**<br>- 📫 How to reach me ranggaputra681@gmail.com<br>- 😄 Pronouns: he/him.</p>
+<p align="left">- 🌱 I’m currently learning TypeScript and Angular<br>- 📫 How to reach me ranggaputra681@gmail.com<br>- 😄 Pronouns: he/him.</p>
 
 ###
 
