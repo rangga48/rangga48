@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning Laravel and Tailwind<br>- 📫 How to reach me ranggaputra681@gmail.com<br>- 😄 Pronouns: He/Him.<br>- 👀 Connect my Linkedin https://www.linkedin.com/in/rangga-putra/</p> 
+<p align="left">- 🌱 I’m currently learning Laravel and NextJS<br>- 📫 How to reach me ranggaputra681@gmail.com<br>- 😄 Pronouns: He/Him.<br>- 👀 Connect my Linkedin https://www.linkedin.com/in/rangga-putra/</p> 
 
 ###  
 
